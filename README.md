@@ -1,59 +1,68 @@
-# SampleApp
+# Angular Movies App
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.4.
+A small hands-on Angular project developed as part of my independent learning and exploration of the Angular framework.
 
-## Development server
+## About This Project
 
-To start a local development server, run:
+This repository contains a learning exercise built with **Angular 21 and TypeScript**.
+
+**Important context:** This project represents only a small part of my broader self-directed Angular learning journey. It was created to practice selected concepts, rather than to demonstrate the full extent of my Angular knowledge and technical capabilities.
+
+My Angular knowledge extends beyond the scope of this repository, supported by my broader professional experience in Full Stack development, TypeScript, frontend architecture, REST APIs, and production web applications.
+
+## Technology Stack
+
+- Angular 21
+- TypeScript
+- HTML & CSS
+- Angular CLI
+- RxJS
+
+## Project Scope
+
+The project includes practical experimentation with:
+
+- Angular application structure
+- Component-based development
+- TypeScript models and data structures
+- Organizing application functionality into components
+- Angular project configuration
+
+This is a learning-stage project and is not intended to represent a production-ready application.
+
+## Professional Background
+
+I am a Full Stack Developer and Technical Lead with approximately two years of practical software development experience.
+
+My professional work includes:
+
+- Developing and maintaining production web applications
+- Building frontend and backend systems with TypeScript
+- Designing and implementing REST APIs
+- Working with relational databases
+- CI/CD, Git workflows, and cloud infrastructure
+- AI integration, RAG, and AI Agents
+- Software architecture and technical problem-solving
+
+I independently studied Angular to expand my frontend expertise and strengthen my ability to work across different technologies and frameworks.
+
+**This repository is a learning artifact, not a complete portfolio of my Angular skills.**
+
+## Getting Started
 
 ```bash
-ng serve
+git clone https://github.com/chanirotenberg/angular-movies-app.git
+cd angular-movies-app
+npm ci
+npm start
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Open `http://localhost:4200/` in your browser.
 
-## Code scaffolding
+## Developer
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+**Chani Hildeshimer**
 
-```bash
-ng generate component component-name
-```
+Full Stack Developer | Technical Lead | AI Engineering
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+GitHub: https://github.com/chanirotenberg
